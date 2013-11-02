@@ -1,4 +1,4 @@
-Basic angular directive and controller providing zoom-in/out buttons and a slider.
+Basic angular directive and controller supporting zoom-in/out buttons and a slider.
 
 # angular-seed — the seed for AngularJS apps
 
