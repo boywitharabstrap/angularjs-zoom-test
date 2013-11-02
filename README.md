@@ -1,12 +1,12 @@
 Basic angular directive and controller supporting zoom-in/out buttons and a slider.
 
-# angular-seed — the seed for AngularJS apps
+angular-seed — the seed for AngularJS apps
 
 This project is an application skeleton for a typical [AngularJS](http://angularjs.org/) web app.
 You can use it to quickly bootstrap your angular webapp projects and dev environment for these
 projects.
 
-### Running the app during development
+Running the app during development
 
 You can pick one of these options:
 
